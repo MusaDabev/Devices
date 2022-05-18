@@ -1,0 +1,5 @@
+Tablet: Lenovo, Black, 25.4 cm, 450 lv;
+Phone: Samsung, 4 cam., 2019, 700 lv;
+Tablet: Lenovo, Black, 25.4 cm, 420 lv;
+Phone: Samsung, 4 cam., 2019, 600 lv;
+Tablet: Samsung, Blue, 25.4 cm, 1000 lv;
